@@ -1,2 +1,3 @@
-# certifications-portfolio
+# Certifications Portfolio
 My professional data analytics certifications.
+
